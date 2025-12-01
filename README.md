@@ -1,2 +1,2 @@
 # uu_discovery
-unknown unknow discivery using VLM
+unknown unknown discovery in dataset using VLM
